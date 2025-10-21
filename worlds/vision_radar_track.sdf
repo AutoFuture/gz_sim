@@ -290,7 +290,12 @@
 
     </model>
 
-
+    <!-- <model name="mosquito">
+      <pose>3.0 0 0.35 0 0 0</pose>
+      <include merge="true">
+        <uri>model://mosquito</uri>
+      </include>
+    </model> -->
     <model name="prius_hybridx">
 	    <pose>20 5 0.35 0 0 1.57</pose>
       <include merge="true">
